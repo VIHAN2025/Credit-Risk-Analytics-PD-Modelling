@@ -206,7 +206,7 @@ The charts below are generated in the `output/` folder when the script runs. The
 
 The proportion of customers who defaulted and those who did not.
 
-![Default Distribution](output/default_distribution.png)
+![Default Distribution](7e47bd2a-63aa-4015-9e4c-016e54665025.png)
 
 ### 11.2 Default Rate by Age Group
 
