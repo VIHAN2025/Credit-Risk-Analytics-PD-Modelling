@@ -253,7 +253,7 @@ When the script runs successfully, the `output/` folder contains:
 | `expected_loss_summary.csv` | Illustrative expected loss summaries |
 | `logistic_regression_coefficients.csv` | Coefficients, odds ratios and 95% Wald confidence intervals |
 | `customer_default_predictions.csv` | Test-set predicted probabilities, predicted classes, risk bands and expected loss estimates |
-| `*.png` | Charts: default distribution, credit limit and age distributions, default rate by age and repayment status, ROC curve, calibration, risk bands |
+
 
 ## 13. Project Limitations
 
