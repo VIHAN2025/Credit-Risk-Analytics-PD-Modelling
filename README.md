@@ -212,31 +212,31 @@ The proportion of customers who defaulted and those who did not.
 
 Default rates across customer age groups, showing which groups have relatively higher or lower observed default rates.
 
-[Default Rate by Age Group](4f4f8f1c-0e8e-4d0d-9501-5a82dc4a2686.png)
+![Default Rate by Age Group](4f4f8f1c-0e8e-4d0d-9501-5a82dc4a2686.png)
 
 ### 11.3 Default Rate by Repayment Status
 
 How default rates vary with customers' recent repayment status, highlighting repayment delays that may indicate increased credit risk.
 
-[Default Rate by Repayment Status](507809b4-1399-4c37-b3bf-02bb47eaf7a4.png)
+![Default Rate by Repayment Status](507809b4-1399-4c37-b3bf-02bb47eaf7a4.png)
 
 ### 11.4 ROC Curve
 
 The ROC curve shows how well the Logistic Regression model separates defaulters from non-defaulters across classification thresholds. The model achieved a ROC-AUC of 0.718 in the original test run.
 
-[ROC Curve](1c241f9d-92b6-4f15-8287-c0caeb350481.png)
+![ROC Curve](1c241f9d-92b6-4f15-8287-c0caeb350481.png)
 
 ### 11.5 Model Calibration
 
 The calibration plot compares predicted default probabilities with observed default rates, helping assess whether predicted probabilities are consistent with actual default behaviour.
 
-[Calibration by Decile](4b2e4096-b742-40e0-be1f-567d54dff5f0.png)
+![Calibration by Decile](4b2e4096-b742-40e0-be1f-567d54dff5f0.png)
 
 ### 11.6 Customer Risk Segmentation
 
 The observed default rate for each predicted risk band (Low: PD below 5%, Medium: 5% to below 15%, High: 15% or higher).
 
-[Observed Default Rate by Risk Band](c1d3c5f7-eb2e-4182-b755-4db35d74c708.png)
+![Observed Default Rate by Risk Band](c1d3c5f7-eb2e-4182-b755-4db35d74c708.png)
 
 ## 12. Output Files
 
